@@ -1,4 +1,4 @@
 def speak_to_grandma(phrase)
   
-If #{phrase} = 
+If #{phrase} = .upcase
 
